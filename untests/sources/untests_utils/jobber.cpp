@@ -4,17 +4,7 @@
  * Copyright (C) 2018 Matvey Cherevko
  ******************************************************************************/
 
-#pragma once
-
 #include "_utils.hpp"
 
-#include "buffer.hpp"
-#include "color.hpp"
-#include "color32.hpp"
-#include "filesystem.hpp"
-#include "image.hpp"
-#include "jobber.hpp"
-#include "random.hpp"
-#include "streams.hpp"
-#include "strings.hpp"
-#include "timer.hpp"
+TEST_CASE("jobber") {
+}
